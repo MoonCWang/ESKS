@@ -1,3 +1,5 @@
+Demo here: http://mernmaven.com/portfo/kittyfriends/
+
 To run this project
 1) Clone this repo
 2) Run npm install
