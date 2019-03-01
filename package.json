@@ -1,11 +1,13 @@
 {
-  "name": "robofriends",
+  "homepage": "http://mernmaven.com/portfo/kittyfriends/",
+  "name": "kittyfriends",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "tachyons": "^4.11.1"
   },
   "scripts": {
     "start": "react-scripts start",
