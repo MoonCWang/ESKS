@@ -1,5 +1,4 @@
-
-![Screen of Kitty Friends App](http://mernmaven.com/portfo/kittyfriends/screen.jpg)
+![Screen of Kitty Friends App](/screen.jpg?raw=true)
 Demo the app here: http://mernmaven.com/portfo/kittyfriends/
 
 To run this project
