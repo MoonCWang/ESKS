@@ -1,4 +1,5 @@
-# Kitty Friends App
+# Extremely Silly Kitty Search App
+A very silly kitty search app that demonstrate the inclusion of an API and the power of react-dom.
 Demo the app here: http://mernmaven.com/portfo/kittyfriends/ \
 Based on Andrei Neagoie's Robofriends.  https://www.udemy.com/user/andrei-neagoie/
 ![Screen of Kitty Friends App](/screen.jpg?raw=true)
